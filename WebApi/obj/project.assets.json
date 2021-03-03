@@ -5607,11 +5607,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mumer\\source\\repos\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\mumer\\OneDrive\\Desktop\\New folder (3)\\WebApp\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\mumer\\source\\repos\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\mumer\\OneDrive\\Desktop\\New folder (3)\\WebApp\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\mumer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mumer\\source\\repos\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\mumer\\OneDrive\\Desktop\\New folder (3)\\WebApp\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
